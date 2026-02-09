@@ -1,4 +1,4 @@
-package LC;
+package digitconcept;
 
 public class q_628 {
     public static void main(String[] args) {

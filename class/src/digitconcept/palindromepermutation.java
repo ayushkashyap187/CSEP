@@ -1,6 +1,5 @@
-package LC;
+package digitconcept;
 
-//Q-266
 public class palindromepermutation {
     public static void main(String[] args) {
         System.out.println(canFormPalindrome(0000));

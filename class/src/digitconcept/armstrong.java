@@ -1,4 +1,4 @@
-package basics;
+package digitconcept;
 
 public class armstrong {
     static boolean isArmstrong(int n) {

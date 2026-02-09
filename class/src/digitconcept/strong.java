@@ -1,4 +1,4 @@
-package basics;
+package digitconcept;
 
 public class strong {
     public static void main(String[] args) {

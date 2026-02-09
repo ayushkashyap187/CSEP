@@ -1,4 +1,4 @@
-package basics;
+package digitconcept;
 
 public class reverse {
     public static void main(String[] args) {

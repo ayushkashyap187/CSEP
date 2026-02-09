@@ -1,4 +1,4 @@
-package basics;
+package digitconcept;
 
 public class bhavikk {
     public static void main(String[] args) {
@@ -19,9 +19,9 @@ public class bhavikk {
         }
         if (sum==temp2)
         {
-            System.out.println("is basics.armstrong");
+            System.out.println("is digitconcept.armstrong");
         }else{
-            System.out.println("no basics.armstrong");
+            System.out.println("no digitconcept.armstrong");
         }
 
     }
