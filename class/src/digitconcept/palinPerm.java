@@ -1,10 +1,10 @@
 package digitconcept;
 
-public class palindromepermutation {
+public class palinPerm {
     public static void main(String[] args) {
-        System.out.println(canFormPalindrome(0000));
+        System.out.println(palinPerm(0000));
     }
-    static boolean canFormPalindrome(int num) {
+    static boolean palinPerm(int num) {
 
         int oddCount = 0;
         for (int d = 0; d <= 9; d++) {
